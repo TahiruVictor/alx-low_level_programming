@@ -1,4 +1,4 @@
-#!?/bin/bash
+#include <stdio.h>
 /**
  *main - Uses puts function to print a line
  *
